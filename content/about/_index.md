@@ -4,17 +4,34 @@ menu: "main"
 ---
 
 ### About Me
-> Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+> I am a first-year master student at University of Illinois Urbana-Champaign, working in [BLENDER Lab](http://blender.cs.illinois.edu/).
 
-### Development Skills
+<!-- ### Development Skills
 {{< tag go >}}
 {{< tag css3 >}}
 {{< tag html5 >}}
 {{< tag jquery >}}
-{{< tag javascript >}}
+{{< tag javascript >}} -->
 
-### [Language Proficiency](https://corporatefinanceinstitute.com/resources/careers/resume/language-proficiency-levels/)
-English - Professional
+<!-- ### [Language Proficiency](https://corporatefinanceinstitute.com/resources/careers/resume/language-proficiency-levels/)
+English - Professional -->
+
+### Publication
+
+- Zeng D\*., **Zhang H**\*., Liu Q. (2020) CopyMTL: Multi-task Copy Mechanism for Joint Extraction of Entities and Relations. The Thirty-Fourth AAAI Conference on Artificial Intelligence. AAAI, 2020. [paper](https://arxiv.org/pdf/1911.10438.pdf) [code](https://github.com/WindChimeRan/CopyMTL)
 
 ### Education
 
+#### Master
+
+- University of Illinois Urbana-Champaign
+- Advisor: Heng Ji
+- Information Management
+- 2019-present
+
+#### Bachelor
+
+- Changsha University of Science and Technology
+- Advisor: Daojian Zeng
+- Computer Science
+- 2014-2018
