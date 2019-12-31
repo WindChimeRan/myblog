@@ -45,7 +45,7 @@ publishDir = "WindChimeRan.github.io"
 
 # Add additional social link entries underneath
 [social]
-	email    = "haoranz6@illinois.edu"
+	# email    = "haoranz6@illinois.edu"
 	# facebook = "https://www.facebook.com/"
 	github   = "https://github.com/WindChimeRan"
 	# linkedin = "https://www.linkedin.com/"

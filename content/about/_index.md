@@ -35,3 +35,7 @@ English - Professional -->
 - Advisor: Daojian Zeng
 - Computer Science
 - 2014-2018
+
+### Contact
+
+Email: haoranz6 [AT] illinois [DOT] edu
