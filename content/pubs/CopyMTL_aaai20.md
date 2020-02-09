@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-[poster](emm)
+[poster](https://github.com/WindChimeRan/myblog/blob/master/content/pubs/poster%20_publish.pdf)
 [paper](https://arxiv.org/abs/1911.10438) [code](https://github.com/WindChimeRan/CopyMTL)
 
 
